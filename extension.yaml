@@ -1,8 +1,7 @@
-title: Hello World
+title: Template extension
 version: 0.0.1
-description: Hello world extension
-author: Shinta Liem
-origin: https://github.com/shinta-liem/omni-extension-template.git
+description: This is a template extension
+author: Anonymous
+origin: <Your git repository here>
 client:
   addToWorkbench: true
-  hideBackButton: true
