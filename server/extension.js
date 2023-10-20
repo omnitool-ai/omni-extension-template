@@ -1,7 +1,7 @@
 // extension.ts
 var extension_default = {
   init: (ctx) => {
-    ctx.log.info("Omni Extension Template loaded");
+    ctx.app.info("Omni Extension Template loaded");
   }
 };
 export {
